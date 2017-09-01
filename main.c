@@ -1,9 +1,12 @@
-/*
- * lab9_part3.c
- *
- * Created: 8/21/2017 8:10:04 PM
- * Author : WALL-E
- */ 
+//Partner: Tsz Wing Choi, tchoi002@ucr.edu
+//Lab section:B21
+//Name: Johnathan Murad
+//Email: Jmura003@ucr.edu
+//Assignment: Lab4 Exercise1
+// Custom Lab  - Juke Box 
+//I acknowledge all content contained herein, excluding template or example code,
+//is my own original work.
+ 
 #define wing 24
 #define wing_1 114
 #define wing_2 200
