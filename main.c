@@ -2,7 +2,7 @@
 //Lab section:B21
 //Name: Johnathan Murad
 //Email: Jmura003@ucr.edu
-//Assignment: Lab4 Exercise1
+//Assignment: custom Project
 // Custom Lab  - Juke Box 
 //I acknowledge all content contained herein, excluding template or example code,
 //is my own original work.
