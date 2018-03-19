@@ -1,4 +1,3 @@
-//Partner: Tsz Wing Choi, tchoi002@ucr.edu
 //Lab section:B21
 //Name: Johnathan Murad
 //Email: Jmura003@ucr.edu
